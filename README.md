@@ -2,3 +2,5 @@
 ## Membres
 - Mireia Muñoz Fernández
 - Ivis Vaquedano
+- Paula Mariana Akerman
+  
