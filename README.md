@@ -2,3 +2,4 @@
 ## Membres
 - Mireia Muñoz Fernández
 - Ivis Vaquedano
+  Reeka javed
