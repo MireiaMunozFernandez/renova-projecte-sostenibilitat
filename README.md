@@ -1,5 +1,5 @@
 # renova-projecte-sostenibilitat
 ## Membres
 - Mireia Muñoz Fernández
-- Ivis Vaquedano
+- Ivis Vaquedano Ponce 
 - Reeka Javed
