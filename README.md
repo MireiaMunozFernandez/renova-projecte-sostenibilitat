@@ -14,3 +14,4 @@ nostre entorn i proposarem una solució tecnològica sostenible.
 
 
 ## Primera reflexió
+Hospitalet té diversos problemes ambientals i socials, però un dels que més ens afecta personalment és la falta d'espais verds, com parcs. Els espais verds a la ciutat milloren la qualitat de l'aire, reduint l'impacte del canvi climàtic a la ciutat, i la salut física i mental de les persones, facilitant l'activitat a l'aire lliure.   
