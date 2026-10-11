@@ -11,6 +11,7 @@ Productiu. Durant el projecte identificarem un repte ambiental o social del
 nostre entorn i proposarem una solució tecnològica sostenible.
 
 ## Organització del equip
+Encara que tots els integrants farem de tot, cadascú s'encarregarà un xic més del rol assignat.
 - Coordinació: Mireia Muñoz Fernández
 - Documentació: Ivis Vaquedano Ponce
 - Recerca: Reeka Javed
