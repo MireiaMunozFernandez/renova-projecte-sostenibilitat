@@ -5,5 +5,8 @@
 - Adrián Cedeño Vivar
 ## 2. L’entorn analitzat.
 ## 3. La taula amb les cinc o vuit necessitats.
+| Necessitat detectada | Tipus | Persones o col·lectius afectats | Activitat econòmica relacionada | Evidència |
+|-----------------------|------------------------|-----------------------|-------------------------|------------------------|
+|   |   |   |   |   |
 ## 4. La reflexió final de l’equip.
 ## 5. Les fonts d’informació consultades.
