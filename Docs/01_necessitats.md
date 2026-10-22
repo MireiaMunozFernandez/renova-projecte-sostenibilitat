@@ -1,9 +1,9 @@
 ## 1. Noms dels membres participants i els seus rols per elaborar la tasca.
+Cada membre escull dos necessitats. Un cop escollides, es farà una reflexió conjunta.
 - Mireia Muñoz Fernández
 - Ivis Vaquedano Ponce
 - Reeka Javed
 - Adrián Cedeño Vivar
-Cada membre escull dos necessitats. Un cop escollides, es farà una reflexió conjunta.
 ## 2. L’entorn analitzat.
 Les necessitats s'han extret després d'analitzar la ciutat, el barri, 
 ## 3. La taula amb les cinc o vuit necessitats.
