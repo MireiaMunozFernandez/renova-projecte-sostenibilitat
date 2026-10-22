@@ -14,7 +14,7 @@
 | Relació amb un sector productiu |  |  |
 | Possibilitat d’una solució tecnològica |  |  |
 | Possibilitat d’actuació local |  |  |
-| ---: Puntuació total |  |  |
+|  **Puntuació total** |  |  |
 
 ### Definició del repte:
 Com podríem ajudar a __________ a reduir o millorar __________ en l’entorn de __________?
