@@ -4,7 +4,7 @@
 - Adrián Cedeño Vivar
 
 ## 2. Definició del repte del projecte
-| Criteri | Necessitat finalista 1 | Necesitat finalista 2 | 
+| Criteri | Reducció d'espècies pol·linitzadores per la manca de zones de floració i l'ús de pesticides | Manca de punts d'aigua, refugis climàtics i zones segures de nidificació per a ocells i insectes pol·linitzadors | 
 |-----------------------|------------------------|-----------------------|
 | Importància i urgència |  |  |
 | Persones afectades |  |  |
