@@ -20,9 +20,12 @@ Les necessitats s'han extret després d'analitzar la ciutat, el barri,
 |  |  |  |  |  |
 ## 4. La reflexió final de l’equip.
 1. Quines necessitats considereu més urgents? Per què?
-Puntos verdes y de agua
+   Considerem que aquestes necessitats són urgents perquè ajuden a protegir tant les persones com els animals i el medi ambient. 
+   La manca de punts d'aigua i de refugis climàtics pot afectar especialment durant els dies de molta calor. A més, crear zones segures de nidificació permet protegir els ocells i els insectes pol·linitzadors,
+   que són importants per mantenir la biodiversitat i l'equilibri dels ecosistemes.
 3. Quines afecten un nombre més gran de persones?
-   Malgasto alimentos
+   Considerem que aquesta necessitat afecta un nombre important de persones, especialment a les famílies en situació de vulnerabilitat econòmica que tenen dificultats per accedir a aliments frescos. 
+   Al mateix temps, els comerços de proximitat llencen aliments que encara es poden consumir. Per això, reduir el malversament alimentari i facilitar la donació d'aquests productes podria ajudar a moltes famílies i reduir els residus. 
 5. Quines tenen una relació més directa amb una activitat econòmica?
    acumulacion residuos
 7. Quines podrien empitjorar en el futur si no s’hi actua?
