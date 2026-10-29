@@ -20,17 +20,21 @@ Les necessitats s'han extret després d'analitzar la ciutat, el barri,
 |  |  |  |  |  |
 ## 4. La reflexió final de l’equip.
 1. Quines necessitats considereu més urgents? Per què?
-   Puntos verdes y de agua
+Puntos verdes y de agua
 3. Quines afecten un nombre més gran de persones?
    Malgasto alimentos
 5. Quines tenen una relació més directa amb una activitat econòmica?
    acumulacion residuos
 7. Quines podrien empitjorar en el futur si no s’hi actua?
    reduccion especies
-9. Quines dues necessitats podrien convertir-se en el repte principal del
-vostre projecte?
-las dos primeras
-11. Quina informació us falta per poder escollir entre aquestes dues
-necessitats?
+9. Quines dues necessitats podrien convertir-se en el repte principal del vostre projecte?
+Les dues necessitats principals per al projecte son:
+- Reducció d'espècies pol·linitzadores per la manca de zones de floració i l'ús de pesticides.
+- Manca de punts d'aigua, refugis climàtics i zones segures de nidificació per a ocells i insectes pol·linitzadors.
+11. Quina informació us falta per poder escollir entre aquestes dues necessitats?
+Per poder escollir entre les dues opcions de forma raonada, cal conèixer la següent informació:
+- Viabilitat de l'espai: Saber si hi ha prou espais construir i plantar zones verdes.
+- Observació de la fauna local: Conèixer les espècies d'ocells i pol·linitzadors de la zona i si és més problemàtic la falta de punts d'aigua o la falta de flors i plantes.
+- Recursos i pressupost: Saber els recursos disponibles a la ciutat (material, eines, llavors, etc.) i el pressupost destinat a aquest sector.
 
 ## 5. Les fonts d’informació consultades.
