@@ -28,10 +28,12 @@ Les necessitats s'han extret després d'analitzar la ciutat, el barri,
 
    Considerem que aquesta necessitat afecta un nombre important de persones, especialment a les famílies en situació de vulnerabilitat econòmica que tenen dificultats per accedir a aliments frescos. 
    Al mateix temps, els comerços de proximitat llencen aliments que encara es poden consumir. Per això, reduir el malversament alimentari i facilitar la donació d'aquests productes podria ajudar a moltes famílies i reduir els residus. 
+
 5. Quines tenen una relació més directa amb una activitat econòmica?
-   acumulacion residuos
+   Acumulació de residus electrònics, com ordinadors, mòbils i components informàtics que ja no s'utilitzen i que es podrien reparar o reutilitzar.
 7. Quines podrien empitjorar en el futur si no s’hi actua?
-   reduccion especies
+ Reducció d'espècies pol·linitzadores per la manca de zones de floració i l'ús de pesticides.
+
 9. Quines dues necessitats podrien convertir-se en el repte principal del vostre projecte?
 Les dues necessitats principals per al projecte son:
 - Reducció d'espècies pol·linitzadores per la manca de zones de floració i l'ús de pesticides.
