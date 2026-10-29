@@ -1,7 +1,6 @@
 ## 1. Noms dels membres participants i els seus rols per elaborar la tasca.
 - Mireia Muñoz Fernández
 - Ivis Vaquedano Ponce
-- Reeka Javed
 - Adrián Cedeño Vivar
 
 ## 2. Definició del repte del projecte
