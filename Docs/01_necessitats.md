@@ -2,7 +2,6 @@
 Cada membre escull dos necessitats. Un cop escollides, es farà una reflexió conjunta.
 - Mireia Muñoz Fernández
 - Ivis Vaquedano Ponce
-- Reeka Javed
 - Adrián Cedeño Vivar
 ## 2. L’entorn analitzat.
 Les necessitats s'han extret després d'analitzar la ciutat, el barri, 
@@ -20,4 +19,18 @@ Les necessitats s'han extret després d'analitzar la ciutat, el barri,
 |  |  |  |  |  |
 |  |  |  |  |  |
 ## 4. La reflexió final de l’equip.
+1. Quines necessitats considereu més urgents? Per què?
+   Puntos verdes y de agua
+3. Quines afecten un nombre més gran de persones?
+   Malgasto alimentos
+5. Quines tenen una relació més directa amb una activitat econòmica?
+   acumulacion residuos
+7. Quines podrien empitjorar en el futur si no s’hi actua?
+   reduccion especies
+9. Quines dues necessitats podrien convertir-se en el repte principal del
+vostre projecte?
+las dos primeras
+11. Quina informació us falta per poder escollir entre aquestes dues
+necessitats?
+
 ## 5. Les fonts d’informació consultades.
