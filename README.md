@@ -2,7 +2,6 @@
 ## Membres
 - Mireia Muñoz Fernández
 - Ivis Vaquedano Ponce 
-- Reeka Javed
 - Adrián Cedeño Vivar
 
 ## Descripció
@@ -14,7 +13,6 @@ nostre entorn i proposarem una solució tecnològica sostenible.
 Encara que tots els integrants farem de tot, cadascú s'encarregarà un xic més del rol assignat.
 - Coordinació: Mireia Muñoz Fernández
 - Documentació: Ivis Vaquedano Ponce
-- Recerca: Reeka Javed
 - Gestió tècnica i audiovisual: Adrián Cedeño Vivar
 
 
