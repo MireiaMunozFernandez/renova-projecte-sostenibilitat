@@ -13,8 +13,8 @@ Les necessitats s'han extret després d'analitzar la ciutat, el barri,
 | Manca de punts d'aigua, refugis climàtics i zones segures de nidificació per a ocells i insectes pol·linitzadors | Ambiental | Fauna urbana | Serveis d'aigua, manca d'educació ambiental, construcció de zones verdes | https://www.amb.cat/es/web/territori/projectes-oberts/detall/-/projecteobert/caixes-niu-per-a-ocells-insectivors/6614800/11656 https://www.nius.cat/el-projecte/ |
 | Illes de calor urbanes i falta d'espais verds als voltants del centre, que agreugen l'estrès tèrmic de la població vulnerable durant les onades de calor. | Socioambiental | Gent gran, infants, persones amb malalties cróniques i veïnats del barri. | Sector de la construcció, urbanisme i serveis públics municipals. | https://www.amb.cat/ca/web/ecologia/canvi-climatic/pla-clima |
 | Malbaratament d'aliments frescos en els comerços de proximitat del barri simultàniament a situacions de precarietat alimentària de famílies vulnerables. | Sociambiental | Famìlies en situació de vullnerabilitat, entitas socials i petits comerciants. | Comerç al detall, restauració i serveis d'anteció social. | https://www.google.com/search?q=https://accioalimentaria.gencat.cat/ca/ambits/alimentacio/malbaratament-alimentari/ |  
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Acumulació de residus electrònics, com ordinadors, mòbils i components informàtics que ja no s'utilitzen i que es podrien reparar o reutilitzar. | Ambiental | 	Veïns i veïnes, empreses d'informàtica i medi ambient. | Sector informàtic, botigues de reparació i empreses de reciclatge. | https://l-h.cat/espaipublic/1356736_1.aspx? |
+| Falta de punts de recollida i reutilització d'aparells electrònics en desús. |  Ambiental | Veïns, estudiants, empreses d'informàtica i medi ambient. | Informàtica, reparació i reciclatge d'aparells electrònics. | https://residus.gencat.cat/ca/ambits_dactuacio/tipus_de_residu/residus_daparells_electrics_i_electronics_raee/index.html? |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
