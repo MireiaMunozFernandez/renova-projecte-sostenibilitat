@@ -26,11 +26,11 @@ Relacionado con la creación de espacios verdes, refugios climáticos y entornos
 
 Meta 11.7: D'aquí a 2030, proporcionar accés universal a zones verdes i espais públics segurs, inclusius i accessibles, especialment per a dones, infants, persones grans i persones amb discapacitat.
 
-- Justificació
+- Justificació :
 Hem seleccionat aquest ODS perquè el nostre projecte vol millorar els espais naturals de l'entorn urbà mitjançant la creació de punts d'aigua, refugis climàtics i zones de nidificació. 
 D'aquesta manera, volem aconseguir ciutats més sostenibles, saludables i respectuoses amb la biodiversitat.
 
-- Contribució del projecte
+- Contribució del projecte :
 El nostre projecte podria contribuir a aquesta meta mitjançant la millora dels espais verds urbans, incorporant zones amb vegetació, punts d'aigua i refugis per als animals.
 Això ajudaria a crear un entorn més saludable i sostenible, afavorint tant la biodiversitat com la qualitat de vida de les persones.
   
@@ -41,12 +41,11 @@ Relacionado con la protección de la biodiversidad y los hábitats de aves e ins
 
 Meta 15.5: Adoptar mesures urgents i significatives per reduir la degradació dels hàbitats naturals, aturar la pèrdua de biodiversitat i protegir les espècies amenaçades.
 
-- Justificació
-
+- Justificació :
   Hem seleccionat aquest ODS perquè està directament relacionat amb la protecció de la biodiversitat i dels ecosistemes terrestres.
   La manca de zones adequades per alimentar-se, hidratar-se i nidificar pot dificultar la supervivència d'ocells i insectes pol·linitzadors.
 
-- Contribució del projecte
+- Contribució del projecte :
 El projecte podria contribuir a aquesta meta creant espais que facilitin la supervivència dels ocells i dels insectes pol·linitzadors, com ara punts d'aigua, zones de floració i refugis de nidificació.
 Aquestes actuacions ajudarien a conservar la biodiversitat local i a millorar els hàbitats naturals.
 
@@ -56,11 +55,11 @@ Relacionado con la adaptación a las altas temperaturas y la creación de refugi
 
 Meta 13.1: Enfortir la resiliència i la capacitat d'adaptació als riscos relacionats amb el clima i els desastres naturals a tots els països.
 
-- Justificació
+- Justificació :
 Hem seleccionat aquest ODS perquè el canvi climàtic provoca temperatures més elevades i períodes de sequera que afecten els animals i els espais naturals.
 Els refugis climàtics i els punts d'aigua poden ajudar a reduir els efectes d'aquestes condicions sobre la biodiversitat.
 
-- Contribució del projecte
+- Contribució del projecte :
 El nostre projecte podria contribuir a aquesta meta mitjançant la creació de refugis climàtics amb vegetació i punts d'aigua que ajudin els ocells i els insectes a afrontar les temperatures elevades i els períodes de sequera.
 Així, afavoriríem l'adaptació de la biodiversitat local als efectes del canvi climàtic.
 
