@@ -45,3 +45,4 @@ Com a mesures inicials, es proposa:
 * SEO BirdLife - https://seo.org/medidas-de-convivencia-con-las-aves-urbanas/
 * Ajuntament de L'Hospitalet de Llobregat - https://www.l-h.cat/webs/mediambient/1213550_1.aspx
 * AMB - https://www.amb.cat/web/territori/projectes-oberts/detall/-/projecteobert/refugis-de-biodiversitat/8090164/11656
+* Canva - Generació d'imatge 'Arbre de problema'
