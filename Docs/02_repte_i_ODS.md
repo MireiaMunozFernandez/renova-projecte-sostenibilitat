@@ -22,7 +22,7 @@ Com podríem ajudar a millorar la biodiversitat local mitjançant la creació de
 
 ODS 11. Ciutats i comunitats sostenibles
 
-Relacionado con la creación de espacios verdes, refugios climáticos y entornos urbanos más saludables.
+Relacionat amb la creació d'espais verds, refugis climàtics i entorns urbans més saludables.
 
 Meta 11.7: D'aquí a 2030, proporcionar accés universal a zones verdes i espais públics segurs, inclusius i accessibles, especialment per a dones, infants, persones grans i persones amb discapacitat.
 
@@ -37,7 +37,7 @@ Això ajudaria a crear un entorn més saludable i sostenible, afavorint tant la 
 
 ODS 15. Vida d'ecosistemes terrestres
 
-Relacionado con la protección de la biodiversidad y los hábitats de aves e insectos polinizadores.
+Relacionat amb la protecció de la biodiversitat i els hàbitats d'aus i insectes pol·linitzadors.
 
 Meta 15.5: Adoptar mesures urgents i significatives per reduir la degradació dels hàbitats naturals, aturar la pèrdua de biodiversitat i protegir les espècies amenaçades.
 
@@ -51,7 +51,7 @@ Aquestes actuacions ajudarien a conservar la biodiversitat local i a millorar el
 
 ODS 13. Acció climàtica
 
-Relacionado con la adaptación a las altas temperaturas y la creación de refugios climáticos.
+Relacionat amb l'adaptació a les altes temperatures i la creació de refugis climàtics.
 
 Meta 13.1: Enfortir la resiliència i la capacitat d'adaptació als riscos relacionats amb el clima i els desastres naturals a tots els països.
 
