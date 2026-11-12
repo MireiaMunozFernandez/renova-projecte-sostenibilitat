@@ -3,6 +3,7 @@
 - Mireia Muñoz Fernández
 - Ivis Vaquedano Ponce 
 - Adrián Cedeño Vivar
+- Thiago Xavier Lafora
 
 ## Descripció
 Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema
