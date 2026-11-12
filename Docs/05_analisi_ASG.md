@@ -33,6 +33,40 @@ La probabilitat i l’impacte dels riscos i les oportunitats s’han valorat ten
 
 ## 5. Selecció dels riscos i les oportunitats prioritaris amb les mesures proposades
 
+Risc prioritari: Manca de manteniment dels punts d'aigua i refugis
+
+Hem seleccionat aquest risc perquè, si els punts d'aigua i els refugis no es revisen correctament, poden deteriorar-se i deixar de ser útils per als ocells i els insectes pol·linitzadors. A més, l'acumulació d'aigua bruta podria afavorir la presència de microorganismes.
+
+Mesures proposades:
+
+Fer revisions periòdiques dels punts d'aigua i dels refugis.
+
+Netejar i renovar l'aigua per evitar l'acumulació de brutícia.
+
+Utilitzar materials resistents i adequats per a l'exterior.
+
+Assignar persones responsables del manteniment.
+
+Aquestes mesures permetrien garantir que els espais continuïn sent segurs i útils per als animals.
+
+Oportunitat prioritària: Millora de la biodiversitat local
+
+Hem seleccionat aquesta oportunitat perquè el projecte pot ajudar a augmentar la presència d'ocells i insectes pol·linitzadors, oferint-los espais on trobar aigua, refugi i zones adequades per alimentar-se i nidificar.
+
+Mesures proposades:
+
+Instal·lar punts d'aigua en espais verds adequats.
+
+Crear refugis i zones de nidificació amb materials respectuosos amb el medi ambient.
+
+Incorporar plantes autòctones que afavoreixin els insectes pol·linitzadors.
+
+Fer un seguiment de la presència d'ocells i insectes.
+
+Informar la ciutadania sobre la importància de conservar la biodiversitat.
+
+Aquestes mesures permetrien millorar els hàbitats locals i augmentar la sensibilització ambiental de la població.
+
 ## 6. Canvis que s’introduiran en el projecte després de l’anàlisi
 
 ## 7. Les fonts d’informació consultades
