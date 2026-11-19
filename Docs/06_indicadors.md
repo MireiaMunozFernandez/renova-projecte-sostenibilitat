@@ -51,7 +51,6 @@ La responsabilitat de comprovar que les dades siguin correctes correspondrà als
 | ESRS |  |  |  |
 | ISO 14001 |  |  |  |
 | ISO 26000 |  |  |  |
-## 6. Fonts consultades
 
 ## 6. Fonts consultades
 
