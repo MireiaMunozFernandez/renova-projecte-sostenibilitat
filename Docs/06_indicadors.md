@@ -7,10 +7,9 @@
 | Acció | Indicador | Què mesura? | Unitat o forma de registre | Situació inicial | Valor objectiu i termini | Font de dades | Periodicitat |
 |-----------------------|------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 | Instal·lar punts d'aigua per als animals | Nombre de punts d'aigua instal·lats | La quantitat de punts d'aigua disponibles | Nombre de punts | Pendent de mesurar mitjançant una observació inicial | Instal·lar 5 punts d'aigua durant els primers 3 mesos | Registre de les instal·lacions | Mensual |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| Crear refugis i zones de nidificació | Nombre de refugis instal·lats | La quantitat de refugis disponibles per als animals | Nombre de refugis | Pendent de mesurar mitjançant un recompte inicial | Instal·lar 5 refugis durant els primers 3 mesos | Observació directa i registre fotogràfic | Mensual |
+| Plantar espècies autòctones per afavorir els pol·linitzadors | Nombre de plantes autòctones plantades | La quantitat de vegetació favorable als insectes pol·linitzadors | Nombre de plantes | Pendent de mesurar mitjançant un recompte inicial | Plantar 20 plantes durant els primers 3 mesos | Registre de plantació | Mensual |
+| Incorporar un sistema de seguiment a l'aplicació | Nombre d'observacions registrades | La participació i les observacions de la biodiversitat local | Nombre de registres | 0 abans de posar en funcionament l'aplicació | Aconseguir 30 observacions durant els primers 3 mesos | Registre de l'aplicació | Mensual |
 ## 3. Respostes a les preguntes de revisió dels indicadors.
 1. Els indicadors mesuren resultats relacionats amb el repte i els ODS seleccionats?
 
