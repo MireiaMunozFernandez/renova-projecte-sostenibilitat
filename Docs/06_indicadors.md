@@ -13,15 +13,36 @@
 ## 3. Respostes a les preguntes de revisió dels indicadors.
 1. Els indicadors mesuren resultats relacionats amb el repte i els ODS seleccionats?
 
+Si, perquè permeten comprovar si augmenten els punts d'aigua, els refugis i la vegetació, i si millora la protecció de la biodiversitat local. 
+També es relacionen amb els ODS 11,13 i 15.
+
 2. Seria possible obtenir les dades sense recollir informació personal innecessària?
+
+Sí, perquè podem utilitzar recomptes, observacions directes i registres de les instal·lacions sense necessitat de recollir dades personals dels ciutadans
 
 3. Els indicadors permeten comprovar el canvi respecte de la situació inicial?
 
+Sí, perquè podem comparar les dades inicials amb els resultats obtinguts després de posar en funcionament el projecte.
+
 4. Hi ha algun resultat important del projecte que els indicadors no recullin?
+
+Sí, no es mesura completament l'augment real de la biodiversitat ni la millora de la qualitat dels hàbitats. Per això, també seria convenient fer observacions periòdiques dels ocells i dels insectes pol·linitzadors.
 
 5. Podríeu explicar honestament els resultats encara que no assolíssiu el valor objectiu?
 
+Sí, publicaríem els resultats reals i explicaríem les dificultats trobades, sense modificar les dades ni inventar resultats.
+
 ## 4. Model breu de comunicació dels resultats.
+
+Després de tres mesos de prova del projecte, es publicaran els resultats relacionats amb el nombre de punts d'aigua instal·lats, els refugis creats, les plantes autòctones plantades i les observacions registrades a l'aplicació.
+
+Les dades es revisaran mensualment i es comunicaran al final del període de prova a la ciutadania, a l'Ajuntament i a les entitas col·laboradores.
+
+Els resultats s'obtindran mitjançant recomptes, observacions directes i registres de l'aplicació.
+
+Si no s'assoleixen els objectius previstos, s'explicaran els motius i es proposaran millores per aconseguir millors resultats en el futur.
+
+La responsabilitat de comprovar que les dades siguin correctes correspondrà als membres de l'equip, que revisaran els registres i les observacions abans de publicar els resultats.
 
 ## 5. Taula sobre GRI, ESRS, ISO 14001 i ISO 26000.
 | Referència | S’aplicaria directament al nostre projecte? | Ens pot servir d’orientació? Com? | Justificació | 
