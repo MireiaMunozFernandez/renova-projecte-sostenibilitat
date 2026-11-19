@@ -4,7 +4,29 @@
 - Adrián Cedeño Vivar
 
 ## 2.  Identificació dels aspectes ambientals, socials i de governança.
+Els grups d’interès, també anomenats stakeholders, són les persones, grups o organitzacions que poden veure's afectats per un problema o projecte, influir en les decisions o contribuir a desenvolupar una solució. En el nostre projecte Renova, aquests grups estan relacionats amb la millora de la biodiversitat urbana, la protecció de la fauna local i la recuperació d'espais verds.
 
+Hem identificat els següents grups d’interès i els hem classificat en interns i externs segons la seva relació amb el desenvolupament del projecte.
+
+Grups interns
+
+Equip del projecte: Els membres del grup que analitzem el repte, investiguem les causes i els impactes i definim possibles accions per millorar la biodiversitat local.
+
+Professorat del mòdul: Ens orienta durant el desenvolupament del projecte, ens ajuda a resoldre dubtes i revisa que les propostes siguin coherents amb els objectius de l'activitat.
+
+Grups externs
+
+Comunitat veïnal i educativa: Estudiants, professorat i veïns que poden veure's beneficiats per la millora dels espais verds i participar en activitats d'educació i sensibilització ambiental.
+
+Ajuntament de L'Hospitalet de Llobregat i serveis municipals: Administració local i equips municipals que gestionen els espais verds, els permisos i les actuacions a la ciutat.
+
+Fauna local (ocells i insectes pol·linitzadors): Espècies que habiten els parcs i les zones verdes i que es veuen afectades per la manca d'aigua, ombra, aliment i llocs de cria.
+
+Entitats ambientals (com CREAF o SEO/BirdLife): Organitzacions especialitzades en biodiversitat i conservació que poden aportar coneixements científics i assessorament.
+
+Administracions supramunicipals (AMB i Generalitat de Catalunya): Institucions públiques que impulsen iniciatives, plans i mesures relacionades amb la biodiversitat, la sostenibilitat i la protecció dels pol·linitzadors.
+
+Personal de jardineria i manteniment: Professionals responsables del manteniment de les zones verdes que podrien participar en la instal·lació, revisió i conservació dels punts d'aigua, refugis i altres elements del projecte.
 ## 3. Matriu de riscos i oportunitats ASG
 
 | Freqüència \ Impacte | Insignificant | Menor | Moderat | Major | Catastròfic |
