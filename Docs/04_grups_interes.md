@@ -1,11 +1,24 @@
 ## 1. Noms dels membres participants i els seus rols per elaborar la tasca.
 - Mireia Muñoz Fernández
 - Ivis Vaquedano Ponce
-- Reeka Javed
+- 
 - Adrián Cedeño Vivar
 
 ## 2. Definició i classificació dels grups d’interès
+Ja sigui perquè en pateixen les conseqüències, perquè hi poden influir o perquè poden contribuir a resoldre'l, alguns dels grups d'interès relacionats amb el problema són:
 
+#### Grups interns
+- **Equip del projecte:** Els membres del grup que analitzem el repte i definim les possibles accions per reduir les conseqüències del repte plantejat.
+- **Professorat del mòdul:** Qui ens orienta en el projecte, ens ajuda a resoldre dubtes i revisa que tot encaixi.
+- **Comunitat veïnal i educativa:** Estudiants, professorat i veïns amb interès en l'estat dels espais verds i l'educació ambiental.
+
+#### Grups externs
+- **Ajuntament de L'Hospitalet de Llobregat i serveis municipals:** Administració local i equips municipals que gestionen els espais verds, els permisos i les actuacions a la ciutat.
+- **Fauna local (ocells i insectes pol·linitzadors):** Les espècies dels parcs i zones verdes que noten directament la manca d'aigua, ombra i llocs de cria.
+- **Entitats ambientals (com CREAF o SEO/BirdLife):** Organitzacions que ja treballen com a referència i que poden aportar coneixement sobre biodiversitat i refugis.
+- **Administracions supramunicipals (AMB i Generalitat):** Institucions públiques que impulsen plans i dades sobre biodiversitat, a més d'intentar concienciar sobre la importància dels pol·linitzadors al territori.
+- **Personal de jardineria i manteniment:** Personal encarregart del manteniment de les zones verdes.
+  
 ## 3. Taula d’anàlisi dels grups d’interès
 | Grup d’interès | Inter / Extern | Com li afecta el problema? | Què necessita o espera? | Grau d'afectació | Influència | Paper en la solució |
 |-----------------------|------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
