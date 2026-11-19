@@ -52,3 +52,11 @@ La responsabilitat de comprovar que les dades siguin correctes correspondrà als
 | ISO 14001 |  |  |  |
 | ISO 26000 |  |  |  |
 ## 6. Fonts consultades
+
+## 6. Fonts consultades
+
+- GRI – Global Reporting Initiative: https://www.globalreporting.org/
+- EFRAG – European Sustainability Reporting Standards (ESRS): https://www.efrag.org/
+- ISO – Gestió ambiental i ISO 14001: https://www.iso.org/iso-14001-environmental-management.html
+- ISO – Responsabilitat social i ISO 26000: https://www.iso.org/iso-26000-social-responsibility.html
+- Nacions Unides – Objectius de Desenvolupament Sostenible: https://sdgs.un.org/goals
