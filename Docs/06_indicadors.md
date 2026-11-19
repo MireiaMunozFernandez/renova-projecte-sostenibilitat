@@ -6,7 +6,7 @@
 ## 2. Taula amb els indicadors del projecte.
 | Acció | Indicador | Què mesura? | Unitat o forma de registre | Situació inicial | Valor objectiu i termini | Font de dades | Periodicitat |
 |-----------------------|------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|  |  |  |  |  |  |  |  |
+| Instal·lar punts d'aigua per als animals | Nombre de punts d'aigua instal·lats | La quantitat de punts d'aigua disponibles | Nombre de punts | Pendent de mesurar mitjançant una observació inicial | Instal·lar 5 punts d'aigua durant els primers 3 mesos | Registre de les instal·lacions | Mensual |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
